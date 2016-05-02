@@ -97,9 +97,7 @@ to the tests written in Jasmine.
 Web access application
 -----------------------
 
-[![Build Status](https://travis-ci.org/makersacademy/bowling-challenge.svg?branch=master)](https://travis-ci.org/makers/bowling-challenge)
-
-[![Build Status](https://travis-ci.org/Willibaur/bowling-challenge.svg?branch=master)](https://travis-ci.org/makers/bowling-challenge)
+[![Build Status](https://travis-ci.org/Willibaur/bowling-score-calculator-JavaScript.svg?branch=master)](https://travis-ci.org/Willibaur/bowling-score-calculator-JavaScript)
 
 
 Contributors
